@@ -59,3 +59,7 @@ a {
     color: #FEFBE1;
     text-align: center;
 }
+
+.boton_personalizado
+    background-image: url(img/backbutton-03.jpg);
+}
